@@ -1,0 +1,1 @@
+var ProductListCtrl = 'Jestem kontroleremm';
