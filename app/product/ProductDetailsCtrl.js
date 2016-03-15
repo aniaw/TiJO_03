@@ -1,0 +1,1 @@
+Dowolna_zawartosc
