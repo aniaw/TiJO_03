@@ -1,1 +1,1 @@
-var ProductListCtrl = 'Hello Worlds!';
+var ProductListCtrl = 'Paulina Sak';
