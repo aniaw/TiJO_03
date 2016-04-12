@@ -1,1 +1,1 @@
-var ProductListCtrl = 'I am the controller!';
+var k ProductListCtrl = 'I am the controler!';
